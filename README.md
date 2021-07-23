@@ -1,4 +1,10 @@
-### Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Dyelvio Wijaya**.\
+
+Saya seorang **Developer Face Recognition** di SIG Pembangunan.\
+
+Jika kamu tertarik untuk berkenalan denganku, silakan kunjungi website [Saya](https://dyelvio.my.id/).
 
 <!--
 **DyelvioWijaya/DyelvioWijaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
