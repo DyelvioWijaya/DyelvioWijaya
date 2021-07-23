@@ -1,8 +1,8 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Dyelvio Wijaya**.\
+Perkenalkan nama saya **Dyelvio Wijaya**.
 
-Saya seorang **Developer Face Recognition** di SIG Pembangunan.\
+Saya seorang **Developer Face Recognition** di SIG Pembangunan.
 
 Jika kamu tertarik untuk berkenalan denganku, silakan kunjungi website [Saya](https://dyelvio.my.id/).
 
